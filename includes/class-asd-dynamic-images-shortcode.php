@@ -41,7 +41,7 @@ class ASD_Dynamic_Images_Shortcode {
 
 		ob_start();
 
-		echo wp_kses_post ( $posts->output_customposts() );
+		echo wp_kses_post( $posts->output_customposts() );
 		return ob_get_clean();
 	}
 

@@ -11,7 +11,7 @@
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_dynamic_images
  * License:        GPL3
- * Version:        1.201808031
+ * Version:        1.201812042
  *
  * ASD Dynamic Images is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

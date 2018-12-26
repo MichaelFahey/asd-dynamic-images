@@ -29,7 +29,7 @@ class ASD_Add_Dynamic_Images extends ASD_AddCustomPosts_1_201811241 {
 	 *   the ASD_Dynamic_Images_Shortscode instance.
 	 */
 	public function __construct( $atts ) {
-      parent::__construct( $atts, ASD_DYNAMIC_IMAGES_DIR, 'dynamic-images-template.php', 'dynamic-images' );
+		parent::__construct( $atts, ASD_DYNAMIC_IMAGES_DIR, 'dynamic-images-template.php', 'dynamic-images' );
 	}
 
 
